@@ -19,5 +19,3 @@ globs = ["**/*.txt", "**/*.md"]
 [vars]
 NODE_ENV = "production"
 
-[observability]
-enabled = true
